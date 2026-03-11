@@ -3,36 +3,30 @@
 Education Options and Outcomes
 
 
-
-\## Table of Contents
-
+## Table of Contents
 
 
--\[The Question](#the-question)
+- [The Question](#the-question)
 
--\[Tools](#tools)
+- [Tools](#tools)
 
--\[Data Sources](#data-sources)
+- [Data Sources](#data-sources)
 
--\[Dashboard](#dashboard)
+- [Dashboard](#dashboard)
 
--\[Key Findings](#key-findings)
+- [Key Findings](#key-findings)
 
 
-
-\## The Question
+## The Question
 
 When I began this project, I had one question - Is a college education still worth it?
 
 As a high school senior, I was told going to college meant getting a good job. There was no further explanation, just that, college = good job. It wasn't true then, and with the increase in the cost of a four-year degree, I couldn't believe it was true today. So I found the data and the answer.
 
-
-
 I chose this project largely because of my own educational journey – an English major, followed several years later by teacher licensure, a 15-year career in manufacturing, and finally a course in data analytics. I also have two children; one freshly graduated from college and another in his freshman year.
 
 
-
-\## Tools
+## Tools
 
 -Python (Pandas)
 
@@ -42,7 +36,7 @@ I chose this project largely because of my own educational journey – an Englis
 
 
 
-\## Data Sources
+## Data Sources
 
 College Scorecard Most Recent Institution-Level Data
 
@@ -56,7 +50,7 @@ https://nces.ed.gov/ipeds/use-the-data
 
 
 
-\## Dashboard
+## Dashboard
 
 I created my dashboard in Power BI. The dashboard explores Certificate, Associate, and Bachelor degree programs and features five basic concepts; Average Program Cost, Average Earnings, Average ROI, Recovery Years, and Program Count.
 
@@ -66,7 +60,7 @@ First, I investigated Return on Investment and Recovery Years for broad programs
 
 
 
-\## Key Findings
+## Key Findings
 
 The data shows that there are clear tradeoffs between different degree types.
 
